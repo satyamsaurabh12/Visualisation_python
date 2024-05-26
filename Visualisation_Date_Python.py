@@ -1,10 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-#                                           Matplotlib Assignment
-# 
 
-# In[1]:
+#                                        Matplotlib Assignment
+
 
 
 #Q1. Create a scatter plot using Matplotlib to visualize the relationship between two arrays, x and y for the given 
